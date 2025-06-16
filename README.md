@@ -21,11 +21,11 @@
 
 ---
 ### Additional Images
-![LinkedIn Logo](assets/images/linkedin.jpeg)  
-![Instagram Logo](assets/images/insta.jpeg)  
-![Vertical Image 1](assets/images/green_branch_sx_vertical.jpeg)  
-![Vertical Image 2](assets/images/quote.jpeg)  
-![Vertical Image 3](assets/images/green_branch_dx_vertical)
+![LinkedIn Logo](linkedin.jpeg)  
+![Instagram Logo](insta.jpeg)  
+![Vertical Image 1](green_branch_sx_vertical.jpeg)  
+![Vertical Image 2](quote.jpeg)  
+![Vertical Image 3](green_branch_dx_vertical)
 
 
 
