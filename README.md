@@ -6,14 +6,14 @@
 **Location:** [Italy]   </br>
 
 ## Programming Languages I use
-![Python](assets/images/python_logo.jpeg)
-![Java](assets/images/java_logo.jpeg)
-![CSS, HTML, Js](images/css_html_js_logo.jpeg)
+![Python](python_icon.jpeg)
+![Java](java_logo.jpeg)
+![CSS, HTML, Js](css_html_js_logo.jpeg)
 
 
 ## Social Media
-[![Instagram](assets/images/insta_logo.jpeg)](https://www.instagram.com/clara.catania_)  
-[![LinkedIn](assets/images/linkedin_logo.jpeg)](https://www.linkedin.com/in/https://www.linkedin.com/in/clara-catania-885856267/)  
+[![Instagram](insta_logo.jpeg)](https://www.instagram.com/clara.catania_)  
+[![LinkedIn](linkedin_logo.jpeg)](https://www.linkedin.com/in/https://www.linkedin.com/in/clara-catania-885856267/)  
 
 ## Featured Content
 ![Profile Picture](assets/images/readme_propic.jpeg)  
