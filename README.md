@@ -25,7 +25,7 @@
 ![Instagram Logo](insta.jpeg)  
 ![Vertical Image 1](green_branch_sx_vertical.jpeg)  
 ![Vertical Image 2](quote.jpeg)  
-![Vertical Image 3](green_branch_dx_vertical)
+![Vertical Image 3](green_branch_dx_vertical.jpeg)
 
 
 
