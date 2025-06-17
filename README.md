@@ -1,46 +1,38 @@
 ## Hi there 👋
-## Bio
-**Name:** Clara Catania </br>
-**Field:** IT  </br>
-**Experience:** [Hi, I'm a passionate developer]   </br>
-**Location:** [Italy]   </br>
+<div align="center">
 
-## Programming Languages I use
-![Python](python_icon.jpeg)
-![Java](java_logo.jpeg)
-![CSS, HTML, Js](css_html_js_logo.jpeg)
+## Bio  
+**Name:** Clara Catania  </br>  
+**Field:** IT  </br>  
+**Experience:** [Hi, I'm a passionate developer]  </br>  
+**Location:** [Italy]  </br>  
 
+## Programming Languages I use  
+<img src="python_icon.jpeg" alt="Python" width="80">  
+<img src="java_logo.jpeg" alt="Java" width="80">  
+<img src="css_html_js_logo.jpeg" alt="CSS, HTML, JS" width="80">  
 
-## Social Media
-[![Instagram](insta_logo.jpeg)](https://www.instagram.com/clara.catania_)  
-[![LinkedIn](linkedin_logo.jpeg)](https://www.linkedin.com/in/https://www.linkedin.com/in/clara-catania-885856267/)  
+## Social Media  
+<a href="https://www.instagram.com/clara.catania_">
+  <img src="insta_logo.jpeg" alt="Instagram" width="80">
+</a>  
+<a href="https://www.linkedin.com/in/clara-catania-885856267/">
+  <img src="linkedin_logo.jpeg" alt="LinkedIn" width="80">
+</a>  
 
-## Featured Content
-![Profile Picture](assets/images/readme_propic.jpeg)  
-![Inspiration Image](assets/images/quote.jpeg)  
+## Featured Content  
+<img src="assets/images/readme_propic.jpeg" alt="Profile Picture" width="120">  
+<img src="assets/images/quote.jpeg" alt="Inspiration Image" width="120">  
 
 ---
-### Additional Images
-![LinkedIn Logo](linkedin.jpeg)  
-![Instagram Logo](insta.jpeg)  
-![Vertical Image 1](green_branch_sx_vertical.jpeg)  
-![Vertical Image 2](quote.jpeg)  
-![Vertical Image 3](green_branch_dx_vertical.jpeg)
 
+### Additional Images  
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="linkedin.jpeg" alt="LinkedIn Logo" width="80">
+  <img src="insta.jpeg" alt="Instagram Logo" width="80">
+  <img src="green_branch_sx_vertical.jpeg" alt="Vertical Image 1" width="80">
+  <img src="quote.jpeg" alt="Vertical Image 2" width="80">
+  <img src="green_branch_dx_vertical.jpeg" alt="Vertical Image 3" width="80">
+</div>
 
-
-
-<!--
-**ClaraCatania/ClaraCatania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
