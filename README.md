@@ -5,11 +5,12 @@
 <h2 align="center">About me 🧸</h2>
 
 <p align="center">
-  <b>- Name:</b> Clara  
-  <br/>
-  <b>- Field:</b> Web-Tech  
-  <br/>
-  <b>- Location:</b> Italy  
+    <br>
+    <br>
+  Hi there! I'm passionate about developing, foreign languages and art. 
+    <br>
+    <br>
+  
 </p>
 
 <h2 align="center">Programming Languages I use 👾</h2>
