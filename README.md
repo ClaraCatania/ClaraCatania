@@ -7,8 +7,11 @@
 <p align="center">
     <br>
     <br>
-  Hi there! I'm passionate about developing, foreign languages and art. <br>
-  If you share my interests, you're in the right place :) 
+  Hi there! I'm passionate about all things developing, foreign languages and art. <br>
+  If you share my interests, you're in the right place😉 <br>
+  Feel free to browse my projects and check my LinkedIn below for updates about my journey!<br>
+  <br>
+  - Clara
     <br>
     <br>
   
