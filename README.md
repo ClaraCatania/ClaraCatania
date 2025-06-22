@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ClaraCatania/ClaraCatania/main/background_img.jpg" alt="Banner" width="60%">
+  <img src="https://raw.githubusercontent.com/ClaraCatania/ClaraCatania/main/background_img.jpg" alt="Banner" width="65%">
 </p>
 
 <h2 align="center">About me 🧸</h2>
@@ -8,7 +8,7 @@
     <br>
     <br>
   Hi there! I'm passionate about developing, foreign languages and art. <br>
-  If you're interested about my story, check-out my LinkedIn below
+  If you share my interests, you're in the right place :) 
     <br>
     <br>
   
