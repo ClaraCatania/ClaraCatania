@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ClaraCatania/ClaraCatania/main/background_img.jpg" alt="Banner" width="65%">
+  <img src="https://raw.githubusercontent.com/ClaraCatania/ClaraCatania/main/background_img.jpg" alt="Banner" width="60%">
 </p>
 
 <h2 align="center">About me 🧸</h2>
