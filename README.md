@@ -7,13 +7,14 @@
 <p align="center">
     <br>
     <br>
-  Hi there! I'm passionate about developing, foreign languages and art. 
+  Hi there! I'm passionate about developing, foreign languages and art. <br>
+  If you're interested about my story, check-out my LinkedIn below
     <br>
     <br>
   
 </p>
 
-<h2 align="center">Programming Languages I use 👾</h2>
+<h2 align="center">Programming languages I dabble with 👾</h2>
 
 <p align="center">
   <img src="java_logo.jpeg" alt="Java" width="110">  
@@ -23,7 +24,7 @@
 
 
 
-<h2 align="center">Spoken Languages 🌎</h2>
+<h2 align="center">Languages I speak 🌎</h2>
 <p align="center">
     <img src="ita.png" alt="ita" width="60">
     <img src="gt.png" alt="eng" width="60">
@@ -31,7 +32,7 @@
 
  
 </p>
-<h2 align="center">Social Media 📱</h2>
+<h2 align="center">My social media 📱</h2>
 
 <p align="center">
   <a href="https://www.instagram.com/clara.catania_">
