@@ -1,21 +1,33 @@
-<div align="center" style="background-image: <img src= "background_img.jpg"; background-size: cover; background-position: center; padding: 40px; border-radius: 15px;">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ClaraCatania/ClaraCatania/main/background_img.jpg" alt="Banner" width="100%">
+</p>
 
-  ## Bio 🧸  
-  **- Name:** Clara Catania  </br>  
-  **- Field:** Web-Tech  </br>  
-  **- Location:** Italy  </br>  
+<h2 align="center">About me 🧸</h2>
 
-  ## Programming Languages I use 👾  
-  <img src="java_logo.jpeg" alt="Java" width="80">  
+<p align="center">
+  <strong>- Name:</strong> Clara  
+  <br/>
+  <strong>- Field:</strong> Web-Tech  
+  <br/>
+  <strong>- Location:</strong> Italy  
+</p>
+
+<h2 align="center">Programming Languages I use 👾</h2>
+
+<p align="center">
+  <img src="java_logo.jpeg" alt="Java" width="110">  
   <img src="python_icon.jpeg" alt="Python" width="80">  
-  <img src="css_html_js_logo.jpeg" alt="CSS, HTML, JS" width="80">  
+  <img src="css_html_js_logo.jpeg" alt="CSS, HTML, JS" width="90">  
+</p>
 
-  ## Social Media 📱  
-  <a href="https://www.instagram.com/clara.catania_">  
-    <img src="insta_logo.jpeg" alt="Instagram" width="80">  
-  </a>  
-  <a href="https://www.linkedin.com/in/clara-catania-885856267/">  
-    <img src="linkedin_logo.jpeg" alt="LinkedIn" width="80">  
-  </a>  
+<h2 align="center">Social Media 📱</h2>
 
-</div>
+<p align="center">
+  <a href="https://www.instagram.com/clara.catania_">
+    <img src="insta_logo.jpeg" alt="Instagram" width="60">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/clara-catania-885856267/">
+    <img src="linkedin_logo.jpeg" alt="LinkedIn" width="60">
+  </a>
+</p>
