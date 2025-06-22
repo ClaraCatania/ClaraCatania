@@ -24,9 +24,8 @@
 
 <p align="center">
   <a href="https://www.instagram.com/clara.catania_">
-    <img src="insta_logo.jpeg" alt="Instagram" width="60">
+    <img src="insta_logo.jpeg" alt="Instagram" width="80">
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/clara-catania-885856267/">
     <img src="linkedin_logo.jpeg" alt="LinkedIn" width="60">
   </a>
@@ -35,10 +34,9 @@
 <h2 align="center">Spoken Languages </h2>
 <p align="center">
     <img src="ita.png" alt="ita" width="60">
-  
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/clara-catania-885856267/">
-    <img src="linkedin_logo.jpeg" alt="LinkedIn" width="60">
-  </a>
+    <img src="gt.png" alt="eng" width="60">
+    <img src="de.png" alt="de" width="60">
+
+ 
 </p>
 
